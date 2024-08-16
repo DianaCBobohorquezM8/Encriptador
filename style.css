@@ -143,8 +143,6 @@ main{
     gap: 8px;
     position: absolute;
     top: 526px;
-    background-color: var(--font);
-    
 }
 
 .boton_encriptar{
